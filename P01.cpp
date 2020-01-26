@@ -1,3 +1,5 @@
+/* P01- Splitting words of a string whose length is even and greater than 4 */
+
 #include<bits/stdc++.h>
 using namespace std;
 void splitString(string s);
