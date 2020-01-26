@@ -1,3 +1,5 @@
+//CHECKING IF OUR STRING CONTAINS A DIGIT OR NOT?
+
 #include<bits/stdc++.h>
 using namespace std;
 void check(string s);
