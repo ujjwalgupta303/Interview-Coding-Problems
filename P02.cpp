@@ -1,3 +1,5 @@
+//Given array contains maximal element or not (maximal element is that which occurs more than n/2 times, n=size of array) 
+
 #include<bits/stdc++.h>
 using namespace std;
  int main()
